@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanHintz
 - 👀 I’m interested in electronics and learning more about software
-- 🌱 I’m currently learning java + c#
+- 🌱 I’m currently learning java + c++
 - 💞️ I’m looking to collaborate on anything to help me learn
 - 📫 How to reach me alhintz11@gmail.com
 
